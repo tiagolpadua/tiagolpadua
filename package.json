@@ -1,0 +1,19 @@
+{
+  "name": "tiagolpadua",
+  "version": "1.0.0",
+  "description": "Cartão Pessoal em Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagolpadua/tiagolpadua.git"
+  },
+  "author": "Tiago Lage Payne de Pádua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiagolpadua/tiagolpadua/issues"
+  },
+  "homepage": "https://github.com/tiagolpadua/tiagolpadua#readme"
+}
