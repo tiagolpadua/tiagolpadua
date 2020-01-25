@@ -34,8 +34,8 @@ saida += `${rotLinkedIn} ${linkedIn}\n\n`;
 saida += `${rotCartao} ${cartao}`;
 
 const opcoes = {
-  padding: 1,
-  margin: 1,
+  padding: 2,
+  margin: 2,
   borderStyle: "round"
 };
 
